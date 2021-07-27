@@ -1,4 +1,5 @@
 # Glossery / Key
+
 -POS: Position
 -G: Games
 -QBR: Quarterback Rating
